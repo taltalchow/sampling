@@ -40,39 +40,121 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: #Scenerio 1
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
+
+#The purpose of this survey is to understand why employee in the entry/high level  positions are leaving the company. This survey will help the human resources department to understand key factors of people leaving, and what the company can improve to retend employees. 
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+
+#Target Population: People working in entry- or junior-level positions, including those who have recently left.
+
+#Sampling Frame: List of current and recently exited employees (within the last 6 months) available through HR records.
+
+#Sampling Units: Individual employees.
+
+#Sampling Strategy: I will use stratified random sampling — picking a balanced number of current and past employees, so we can hear from both groups.
+
 
 Your 5-10 question survey:
-```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
+
+#1. How long have you work at the company?
+-Less than 6 months
+-6 to 12 months
+-1 to 2 years
+-More than 2 years
+
+#2. Are you still working at the company?
+-Yes
+-No
+
+#3. What made you consider leaving (or actually leave)? (Select all that apply)
+-Pay or benefits
+-Not enough chances to grow
+-Overtime 
+-Lack of work-life balance
+-Relationship with my manager or team
+-Personal reasons (e.g. family, health, moving)
+-Something else: ___________
+
+#4. On a scale of 1 to 5, how would you rate the following? (1 = Poor, 5 = Excellent)
+-Your overall job experience
+-Communication from your manager
+-Respect at work
+-Feeling part of the team
+-Opportunities to grow
+
+#5. Did you feel comfortable sharing feedback or concerns at work?
+-Yes
+-No
+
+#6. What was one thing you liked about your job? (you may provide short answer)
+
+#7. What’s one thing that could have made your experience better? (you may provide short answer)
+
+#8. Did you have a clear idea of how you could grow in your role?
+-Yes
+-No
+
+#9. Would you recommend the company to someone looking for a similar role?
+-Yes
+-Maybe
+-No
+
+#If you consider to leave or already left the company, what can we improve to maintain our relationship?
+
+
+Thank you so much for answering this survey, all answers are consider to be anonymous and confidential for internal use only.
+Enjoy your day!
 
 ## Part B - Survey Evaluation:
 
 Identify and describe survey features:
 
-```
-write your answer here
-```
+#1. Sample type
+cross-sectional, stratified random sample survey 
+
+#2. Sample size
+~16,149 respondents in the ten provinces 
+
+#3. Target population
+All Canadians aged 15+ living in private households in the 10 provinces (excluding territories and full‑time institutional residents) 
+
+#4. Sampling frame
+Used landline and cellphone numbers plus a dwelling frame, grouped by phone number linked to address 
+
+#5. Survey mode(s)
+Data collected primarily by telephone, also from the internet survey in billingual
+
+#6. Timeline
+September 4 to December 28, 2018 
+
+#7. Response rate
+The overall response rate is 41.9%
+
+#8. Weights
+Each person in the survey is given a weight, which tells how many people in Canada that person represents. This helps make sure the results reflect the whole population, not just the people who answered.
+
+#9. Data processing
+The survey data was entered directly during the interviews. After that, Statistics Canada checked and cleaned the data before making it available. They also added labels and instructions to help people understand how to use the data.
+-validate, flow edits, out of range values flagged in real time, manual and automated edits 
+
+#10. Cleaning, imputation, etc
+If someone didn’t answer a question, Statistics Canada used imputation(nearest neightbor scoring). They also checked and adjusted the data to make sure it still matched Canada’s population.
+Income obtainted from 2017 tax data for around 82% of respondants, rest imputed.
+
+#11. Sources of error
+Sampling error due to multi-stage design
+Non-sampling errors: measurement errors, people misunderstand questions, data entry errors 
+
+#12. Limitations, known biases
+Excludes territories, and household without phone
+Non-response bias adjusted using administrative data
+
+#13. Links to documentation
+https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
+
 
 ## Rubric
 
